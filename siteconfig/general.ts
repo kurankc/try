@@ -1,7 +1,7 @@
 
 export const siteConfig = {
   // Basic Site Information
-  siteName: "GameHost Pro",
+  siteName: "SkilloraClouds",
   tagline: "Professional Game Hosting Solutions",
   description: "Professional game hosting solutions for gamers worldwide. Fast, reliable, and affordable hosting services with 24/7 support.",
   
