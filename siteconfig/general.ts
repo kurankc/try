@@ -22,7 +22,7 @@ export const siteConfig = {
   
   // Social Media Links
   socialMedia: {
-    discord: { url: "https://discord.gg/gamehostpro", enabled: true },
+    discord: { url: "https://discord.gg/qKsPkuTPsd", enabled: true },
     twitter: { url: "https://twitter.com/gamehostpro", enabled: true },
     facebook: { url: "https://facebook.com/gamehostpro", enabled: true },
     instagram: { url: "https://instagram.com/gamehostpro", enabled: true },
