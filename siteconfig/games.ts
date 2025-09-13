@@ -11,7 +11,7 @@ export const gamesConfig = {
   // Available Games
   games: [
     {
-      id: "minecraft",
+      id: "minecraft1",
       name: "Minecraft",
       description: "Build, explore, and survive in infinite worlds",
       price: "$4.99/month",
