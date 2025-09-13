@@ -7,8 +7,8 @@ export const siteConfig = {
   
   // Logo Configuration
   logo: {
-    url: "https://img.dbhostings.com/uploads/67ed1bbdf3914.jpg",
-    alt: "GameHost Pro Logo",
+    url: "https://img.dbhostings.com/uploads/68c51f212a281.png",
+    alt: "SkilloraClouds",
     fallbackIcon: "Gamepad2" // Lucide icon name
   },
   
@@ -23,16 +23,16 @@ export const siteConfig = {
   // Social Media Links
   socialMedia: {
     discord: { url: "https://discord.gg/qKsPkuTPsd", enabled: true },
-    twitter: { url: "https://twitter.com/gamehostpro", enabled: true },
-    facebook: { url: "https://facebook.com/gamehostpro", enabled: true },
-    instagram: { url: "https://instagram.com/gamehostpro", enabled: true },
+    twitter: { url: "https://twitter.com/gamehostpro", enabled: false },
+    facebook: { url: "https://facebook.com/gamehostpro", enabled: false },
+    instagram: { url: "https://instagram.com/gamehostpro", enabled: false },
     youtube: { url: "https://youtube.com/@gamehostpro", enabled: true }
   },
   
   // SEO Configuration
   seo: {
     keywords: ["game hosting", "minecraft hosting", "vps", "dedicated servers", "cs2 hosting", "rust hosting"],
-    author: "GameHost Pro Team",
+    author: "SkilloraClouds",
     googleAnalytics: "", // Add GA tracking ID if needed
     googleTagManager: "" // Add GTM ID if needed
   },
@@ -49,8 +49,8 @@ export const siteConfig = {
   // Business Information
   business: {
     founded: "2024",
-    servers: "5000+",
-    customers: "10000+",
+    servers: "499+",
+    customers: "100+",
     uptime: "99.9%"
   }
 };
