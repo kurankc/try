@@ -4,7 +4,7 @@ export const pagesConfig = {
   pages: {
     home: { enabled: true, title: "Home - GameHost Pro" },
     games: { enabled: true, title: "Game Hosting - GameHost Pro" },
-    minecraft: { enabled: true, title: "Minecraft Hosting - GameHost Pro" },
+    minecraft: { enabled: false, title: "Minecraft Hosting - GameHost Pro" },
     cs2: { enabled: false, title: "Counter-Strike 2 Hosting - GameHost Pro" },
     rust: { enabled: true, title: "Rust Hosting - GameHost Pro" },
     ark: { enabled: false, title: "ARK Hosting - GameHost Pro" },
