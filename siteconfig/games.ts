@@ -12,7 +12,7 @@ export const gamesConfig = {
   games: [
     {
       id: "minecraft1",
-      name: "Minecraft",
+      name: "minecraft",
       description: "Build, explore, and survive in infinite worlds",
       price: "$4.99/month",
       players: "1-200 players",
