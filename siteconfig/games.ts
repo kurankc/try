@@ -317,7 +317,7 @@ export const gamesConfig = {
       players: "1-128 players",
       icon: "🎮",
       popular: false,
-      enabled: false,
+      enabled: true,
       hasPage: true,
       features: ["Workshop content", "Custom game modes", "Lua scripting", "Add-on support"],
       category: "Sandbox",
