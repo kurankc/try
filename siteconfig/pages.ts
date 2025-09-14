@@ -9,7 +9,7 @@ export const pagesConfig = {
     rust: { enabled: true, title: "Rust Hosting - GameHost Pro" },
     ark: { enabled: false, title: "ARK Hosting - GameHost Pro" },
     valheim: { enabled: false, title: "Valheim Hosting - GameHost Pro" },
-    gmod: { enabled: false, title: "Garry's Mod Hosting - GameHost Pro" },
+    gmod: { enabled: true, title: "Garry's Mod Hosting - GameHost Pro" },
     vps: { enabled: true, title: "VPS Solutions - GameHost Pro" },
     webHosting: { enabled: false, title: "Web Hosting - GameHost Pro" },
     support: { enabled: true, title: "Support - GameHost Pro" },
